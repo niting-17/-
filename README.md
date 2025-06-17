@@ -28,3 +28,5 @@ OR 關係。而所有最小項的這些 OR 子句之間，則以邏輯 AND
 本，即該組合中所有函數解所使用的不重複 PI 的數量 。最終，
 程式將選出成本最低的一個或多個解組合作為最終的解，並將 
 SymPy 的 & 符號替換為 + 符號提高可讀性。
+
+[程式執行檔](https://drive.google.com/file/d/1bWzEWKxL2QwkTbq2naDkin0ngDuh8Cny/view?usp=sharing)
